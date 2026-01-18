@@ -1,5 +1,5 @@
 1
-<img width="1920" height="1020" alt="1" src="https://github.com/user-attachments/assets/199a807f-f8ca-44cd-a0af-62f2ce50c55f" />
+<img width="950" alt="1" src="https://github.com/user-attachments/assets/199a807f-f8ca-44cd-a0af-62f2ce50c55f" />
 
 2
 <img width="1920" height="1020" alt="2" src="https://github.com/user-attachments/assets/91479b65-2cd5-48d3-9b50-c595ad589248" />
@@ -24,3 +24,4 @@ Chat
 
 Sugestões
 <img width="1122" height="422" alt="image" src="https://github.com/user-attachments/assets/d60dcd23-7689-45dd-a0e6-7168e5408b06" />
+
